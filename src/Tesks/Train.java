@@ -1,9 +1,7 @@
 package Tesks;
 
-public class Tesks1 {
-}
 
-class Train {
+public class Train {
     public static void main(String[] args) {
         Train train = new Train();
         train.setSpeed(232);
